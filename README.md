@@ -1,4 +1,4 @@
-SIMPLE SHELL PROJECT ALX SOFTWARE ENGINEERING PROGRAMME
+SIMPLE SHELL PROJECT FOR ALX SOFTWARE ENGINEERING PROGRAMME
 
 
 This is a simple implementation of a unix shell in C programming language, developed as a project for ALX software programming course. The project aims to simulate a basic shell interface with command-line interpreter functionality, allowing users to execute commands and interact with thier operating system.
